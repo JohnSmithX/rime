@@ -1,5 +1,5 @@
 
-# 闲耘的 Rime 配置说明
+# 配置说明
 
 [Rime](https://github.com/rime) 输入法是一款适用于 Mac OSX, Linux,
 Windows 的输入法，Rime 在不同平台下的对应名称如下：
