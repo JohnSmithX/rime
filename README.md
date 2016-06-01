@@ -47,8 +47,5 @@ sync_dir: "/Users/hotoo/Dropbox/RimeSync"
 
 
 ## 参考
-* [Rime 定製指南](http://code.google.com/p/rimeime/wiki/CustomizationGuide)
-* [中州韵（小狼毫，鼠须管）输入法设置](http://blog.yesmryang.net/rime-setting/)
-* [說明書#同步用戶資料](https://code.google.com/p/rimeime/wiki/UserGuide#同步用戶資料)
-* [Author:佛振(lotem)@github](https://github.com/lotem)
-* [如何从QIM迁移至Squirrel（鼠鬚管）](http://cocoabob.net/?p=919)
+
+* [Rime输入法—鼠须管(Squirrel)词库添加及配置](http://www.jianshu.com/p/cffc0ea094a7#)
